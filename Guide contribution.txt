@@ -1,0 +1,11 @@
+Vous souhaitez contribuer à ce projet ? vous trouverez ci-dessous les détails sur la façon de le faire.
+
+Étapes à suivre pour soumettre une contribution :
+
+D'abord , ouvrez une issue et décrivez le sujet auqelle portera votre contribution exemples: signaler une erreur , discuter d'un sujet, proposer une nouvelle fonctionnalité..etc.
+Forker le dépôt puis cloner le nouveau repository sur votre poste de travail et configurer synchronisation du fork avec le dépôt d'origine.
+Créer une branche et modifier en local le fichier.
+Faire un git add, un git commit et un git push pour envoyer la modification sur votre repository distant (le fork).
+Tester vos modifications.
+
+Créer une pull request via l’interface graphique de GitHub.
