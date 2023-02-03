@@ -5,7 +5,7 @@
                                    Bienvenue dans notre projet Z’burger 
 
 
-          ![Capture d’écran 2023-02-03 204023](https://user-images.githubusercontent.com/81560096/216692943-b03705cc-0fc9-475f-a821-748e30489cde.jpg)
+          https://user-images.githubusercontent.com/81560096/216692943-b03705cc-0fc9-475f-a821-748e30489cde.jpg
 
 Notre application web va vous permettre de consulter une liste de produits disponibles, commander ce qu’il vous faut et vérifier votre commande.
 
