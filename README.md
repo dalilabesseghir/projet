@@ -26,5 +26,8 @@ Notre application web va vous permettre de consulter une liste de produits dispo
 
 4- Exécutez "php artisan serve" pour démarrer le serveur de développement local.
 
+            *** Mode de fonctionnement ***
 
-
+Pour tester les fonctionnalités de notre projet veuillez vous connecter avec les informations suivantes : 
+Adresse mail : test@example.com
+Mot de passe : password 
