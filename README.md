@@ -1,8 +1,8 @@
-                   Réalisatrices:Kamelia BRAHIMI, Dalila BESSEGHIR
+                            Réalisatrices:Kamelia BRAHIMI, Dalila BESSEGHIR
 
 
 
-                         Bienvenue dans notre projet Z’burger 
+                                   Bienvenue dans notre projet Z’burger 
 
 
 Notre application web va vous permettre de consulter une liste de produits disponibles, commander ce qu’il vous faut et vérifier votre commande.
