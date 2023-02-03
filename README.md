@@ -28,6 +28,6 @@ Notre application web va vous permettre de consulter une liste de produits dispo
 
             *** Mode de fonctionnement ***
 
-Pour tester les fonctionnalités de notre projet veuillez vous connecter avec les informations suivantes : 
-Adresse mail : test@example.com
-Mot de passe : password 
+Pour tester les fonctionnalités de notre projet veuillez vous connecter avec les informations suivantes :                          
+#### Adresse mail : test@example.com
+#### Mot de passe : password 
