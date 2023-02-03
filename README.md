@@ -30,4 +30,4 @@ Notre application web va vous permettre de consulter une liste de produits dispo
 
 Pour tester les fonctionnalités de notre projet veuillez vous connecter avec les informations suivantes :                          
 #### Adresse mail : test@example.com
-#### Mot de passe : password 
+#### Mot de passe : "password" (mot de passe en anglais) 
