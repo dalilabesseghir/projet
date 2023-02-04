@@ -5,7 +5,6 @@
                                    Bienvenue dans notre projet Z’burger 
 
  
-    ![text](C:\Users\dalil\Downloads\image\Capture d’écran 2023-02-03 204023.jpg)
 
 Notre application web va vous permettre de consulter une liste de produits disponibles, commander ce qu’il vous faut et vérifier votre commande.
 
