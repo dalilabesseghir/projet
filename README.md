@@ -4,15 +4,18 @@
 
                                    Bienvenue dans notre projet Z’burger 
 
-
+ 
+    ![text](C:\Users\dalil\Downloads\image\Capture d’écran 2023-02-03 204023.jpg)
 
 Notre application web va vous permettre de consulter une liste de produits disponibles, commander ce qu’il vous faut et vérifier votre commande.
 
+             *** Prérequis ***
 
-              *** Configuration de l'environnement ***
-*** Prérequis ***
 - Avoir un système de gestion de base de données.
 - Se positionner dans le chemin courant (burger)
+
+              *** Configuration de l'environnement ***
+
 1- Exécutez "composer install" pour installer toutes les dépendances du projet.
 
 2- Exécutez "php artisan key:generate" pour générer une clé de chiffrement pour le projet.
@@ -35,5 +38,6 @@ Pour tester les fonctionnalités de notre projet veuillez vous connecter avec le
 #### Adresse mail : test@example.com
 #### Mot de passe : "password" (mot de passe en anglais) 
 
-Remarques: 
+           *** Remarques ***
+
 Notre projet est ouvert en open source, vous avez à votre disposition un guide pour pouvoir contribuer avec toute simplicité à notre projet. Toute contribution est la bienvenue que ce soit une proposition d'amélioration du code ou bien d'amélioration de la documentation. Pour que le processus de contribution se déroule dans des bonnes conditions nous vous invitons à lire le code de conduite. 
